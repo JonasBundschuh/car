@@ -1,0 +1,8 @@
+C:\Projetcs\Car\Car\Car\obj\Debug\Car.csproj.AssemblyReference.cache
+C:\Projetcs\Car\Car\Car\obj\Debug\Car.csproj.SuggestedBindingRedirects.cache
+C:\Projetcs\Car\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+C:\Projetcs\Car\Car\Car\bin\Debug\Car.exe.config
+C:\Projetcs\Car\Car\Car\bin\Debug\Car.exe
+C:\Projetcs\Car\Car\Car\bin\Debug\Car.pdb
+C:\Projetcs\Car\Car\Car\obj\Debug\Car.exe
+C:\Projetcs\Car\Car\Car\obj\Debug\Car.pdb
